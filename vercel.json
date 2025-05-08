@@ -1,6 +1,6 @@
 {
-  "buildCommand": "expo export:web",
-  "outputDirectory": ".expo/web/dist",
+  "buildCommand": "expo export",
+  "outputDirectory": "dist",
   "cleanUrls": true,
   "rewrites": [
     {
